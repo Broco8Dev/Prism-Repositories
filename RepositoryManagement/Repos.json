@@ -9,4 +9,14 @@
             "Icon": "1"
         }
     ]
+}{
+    "RepoName": "UwU",
+    "Tweaks": [
+        {
+            "Name": "UwU",
+            "Description": "UwU",
+            "URL": "UwU",
+            "Icon": "UwU"
+        }
+    ]
 }
