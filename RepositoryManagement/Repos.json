@@ -14,4 +14,20 @@
             "Icon": "e"
         }
     ]
+}{
+    "RepoName": "testing",
+    "Tweaks": [
+        {
+            "Name": "e",
+            "Description": "e",
+            "URL": "e",
+            "Icon": "e"
+        },
+        {
+            "Name": "e",
+            "Description": "e",
+            "URL": "e",
+            "Icon": "e"
+        }
+    ]
 }
