@@ -1,1 +1,12 @@
 
+{
+    "RepoName": "testing",
+    "Tweaks": [
+        {
+            "Name": "e",
+            "Description": "e",
+            "URL": "e",
+            "Icon": "e"
+        }
+    ]
+}
