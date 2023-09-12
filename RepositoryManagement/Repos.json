@@ -1,22 +1,24 @@
-
-{
-    "RepoName": "testing",
-    "Tweaks": [
-        {
-            "Name": "e",
-            "Description": "e",
-            "URL": "e",
-            "Icon": "e"
-        }
-    ]
-}{
-    "RepoName": "testing2",
-    "Tweaks": [
-        {
-            "Name": "e",
-            "Description": "e",
-            "URL": "e",
-            "Icon": "e"
-        }
-    ]
-}
+[
+    {
+        "RepoName": "testing",
+        "Tweaks": [
+            {
+                "Name": "e",
+                "Description": "e",
+                "URL": "e",
+                "Icon": "e"
+            }
+        ]
+    },
+    {
+        "RepoName": "testing2",
+        "Tweaks": [
+            {
+                "Name": "e",
+                "Description": "e",
+                "URL": "e",
+                "Icon": "e"
+            }
+        ]
+    }
+]
