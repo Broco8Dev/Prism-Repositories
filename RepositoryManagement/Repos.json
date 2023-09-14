@@ -1,1 +1,19 @@
 
+{
+    "RepoName": "testing",
+    "Tweaks": [
+        {
+            "Name": "hello",
+            "Description": "bonjour",
+            "URL": "youtube.com",
+            "Icon": "none"
+        },
+        {
+            "Name": "bye",
+            "Description": "au revoir",
+            "URL": "pornhub.com",
+            "Icon": "none"
+        }
+    ]
+}
+NEXTLINE
