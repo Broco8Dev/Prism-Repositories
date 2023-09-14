@@ -10,7 +10,8 @@
         }
     ]
 }
-NEXTLINE{
+NEXTLINE
+{
     "RepoName": "e2",
     "Tweaks": [
         {
