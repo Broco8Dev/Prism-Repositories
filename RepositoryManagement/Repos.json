@@ -16,21 +16,4 @@
         }
     ]
 }
-NEXTLINE{
-    "RepoName": "testingagain",
-    "Tweaks": [
-        {
-            "Name": "balls",
-            "Description": "deez",
-            "URL": "discord.gg",
-            "Icon": "none"
-        },
-        {
-            "Name": "pp",
-            "Description": "big",
-            "URL": "xhampster.com",
-            "Icon": "none"
-        }
-    ]
-}
 NEXTLINE
