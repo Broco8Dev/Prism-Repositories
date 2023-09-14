@@ -1,16 +1,4 @@
-
-{
-    "RepoName": "e",
-    "Tweaks": [
-        {
-            "Name": "e",
-            "Description": "e",
-            "URL": "e",
-            "Icon": "e"
-        }
-    ]
-}
-NEXTLINE
+(
 {
     "RepoName": "e2",
     "Tweaks": [
@@ -22,3 +10,4 @@ NEXTLINE
         }
     ]
 }
+)
