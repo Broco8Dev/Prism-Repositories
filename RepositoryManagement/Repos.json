@@ -17,3 +17,21 @@
     ]
 }
 NEXTLINE
+{
+    "RepoName": "testingagain'",
+    "Tweaks": [
+        {
+            "Name": "e",
+            "Description": "e",
+            "URL": "e",
+            "Icon": "e"
+        },
+        {
+            "Name": "f",
+            "Description": "f",
+            "URL": "f",
+            "Icon": "f"
+        }
+    ]
+}
+NEXTLINE
