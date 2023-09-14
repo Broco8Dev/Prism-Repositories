@@ -7,17 +7,9 @@
             "Description": "e",
             "URL": "e",
             "Icon": "e"
-        },
-        {
-            "Name": "f",
-            "Description": "f",
-            "URL": "f",
-            "Icon": "f"
         }
     ]
 }
-
-NEWLINE
 {
     "RepoName": "thinkifounderror",
     "Tweaks": [
