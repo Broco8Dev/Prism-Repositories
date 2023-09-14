@@ -1,2 +1,19 @@
 
-<Message id=1151977625393303682 channel=<TextChannel id=1151007897178869770 name='repo-editor' position=7 nsfw=False news=False category_id=1144434968295125053> type=<MessageType.default: 0> author=<Member id=723310347724783687 name='theantidisestablishmentarianist' global_name='BrocoDev' bot=False nick=None guild=<Guild id=1144047674614616135 name='Flux Discord' shard_id=0 chunked=False member_count=118>> flags=<MessageFlags value=0>>
+<Message id=1151977625393303682 channel=<TextChannel id=1151007897178869770 name='repo-editor' position=7 nsfw=False news=False category_id=1144434968295125053> type=<MessageType.default: 0> author=<Member id=723310347724783687 name='theantidisestablishmentarianist' global_name='BrocoDev' bot=False nick=None guild=<Guild id=1144047674614616135 name='Flux Discord' shard_id=0 chunked=False member_count=118>> flags=<MessageFlags value=0>>{
+    "RepoName": "REPONAME",
+    "Tweaks": [
+        {
+            "Name": "NAME-OF-YOUR-TWEAK",
+            "Description": "DESC-OF-YOUR-TWEAK",
+            "URL": "SHORTCUT-URL-OF-YOUR-TWEAK",
+            "Icon": "BASE-64-ENCODED-ICON"
+        }
+
+        {
+            "Name": "NAME-OF-YOUR-TWEAK",
+            "Description": "DESC-OF-YOUR-TWEAK",
+            "URL": "SHORTCUT-URL-OF-YOUR-TWEAK",
+            "Icon": "BASE-64-ENCODED-ICON"
+        }
+    ]
+}
