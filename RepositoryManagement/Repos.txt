@@ -1,4 +1,3 @@
-TWEAKS:
 Pigeon
 Dodo Ported to Jailed Devices.
 BrocoDev
