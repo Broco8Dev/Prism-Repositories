@@ -8,7 +8,6 @@
             "Author": "YOUR-NAME",
             "Icon": "BASE-64-ENCODED-ICON"
         },
-
         {
             "Name": "NAME-OF-YOUR-TWEAK",
             "Description": "DESC-OF-YOUR-TWEAK",
@@ -18,5 +17,4 @@
         }
     ]
 }
-
 
