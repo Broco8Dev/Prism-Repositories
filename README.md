@@ -1,5 +1,5 @@
 <p align="left">
-  <img align="left" height="120" src="https://github.com/Lrdsnow/PureKFD/blob/main/PureKFD/AppIcon.png?raw=true" alt="PureKFD Logo" style="float: left; border-radius: 10px;"/>
+  <img align="left" height="120" src="https://github.com/Broco8Dev/Flux/blob/main/icon.png?raw=true" style="float: left; border-radius: 10px;"/>
 </p>
 <h3 align="right">Flux, A Shortcut-Powered Customization Toolbox For Every iOS 14+ (No Exploits, No PC, Untethered)
 </h3> 
