@@ -1,2 +1,4 @@
 # Flux
-iOS 15-17,18,19… Customization Toolbox (No Exploits, No PC, Untethered)
+## A Shortcut-Powered Customization Toolbox For Every iOS 14+ (No Exploits, No PC, Untethered)
+
+> I fluxxing love this toolbox -bob, 2069.
