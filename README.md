@@ -5,7 +5,7 @@
 </h3> 
 
 <p  align="right" >
-  <strong><a  href="nuh uh">Download</a></strong>
+  <strong><a  href="https://broco8dev.github.io/Flux/">Run WebBuild</a></strong>
   •
   <strong><a  href="https://discord.gg/HSwNpGtS79">Discord</a></strong>
   •
