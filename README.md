@@ -5,7 +5,9 @@
 </h3> 
 
 <p  align="right" >
-  <strong><a  href="https://broco8dev.github.io/Flux/">Run WebBuild</a></strong>
+  <strong><a  href="https://github.com/Broco8Dev/Flux/releases/latest">Download</a></strong>
+  •
+  <strong><a  href="https://github.com/Broco8Dev/Flux/releases/latest">Run Flux Lite(WebGL)</a></strong>
   •
   <strong><a  href="https://discord.gg/HSwNpGtS79">Discord</a></strong>
   •
