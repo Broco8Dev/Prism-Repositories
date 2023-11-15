@@ -26,6 +26,6 @@
 
 #### Credit:
 - Broco8Dev as Main Dev and Designer
-- LoyaDev as a Contributor
-- lrdsnow as a Contributor
+- LoyaHDev as a Contributor
+- Lrdsnow as a Contributor
 - All of the great Tweak Devs and Icon Creators
