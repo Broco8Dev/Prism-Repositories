@@ -7,8 +7,6 @@
 <p  align="right" >
   <strong><a  href="https://github.com/Broco8Dev/Flux/releases/latest">Download</a></strong>
   •
-  <strong><a  href="https://github.com/Broco8Dev/Flux/releases/latest">Run Flux Lite(WebGL)</a></strong>
-  •
   <strong><a  href="https://discord.gg/HSwNpGtS79">Discord</a></strong>
   •
   <strong><a  href="https://twitter.com/Broco8Real">Twitter</a></strong>
