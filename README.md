@@ -16,18 +16,16 @@
 
 #
 
-### Supported Versions: iOS and iPadOS 14-17+ on the App. Tweak compatibility varies.
+### Supported Versions: iOS and iPadOS 16-17+ on the App. Tweak compatibility varies.
 
-### A Shortcut-Powered Customization Toolbox For Every iOS 14+
+### A Shortcut-Powered Customization Toolbox For Every iOS 16+
 - Fully supports Lockscreen Themes, Icon Themes, Jailbreak Tweak Ports and More!
 
 ### Todo:
 - Flux v2
-- Sizing Fixes
-- Make settings and info buttons work
 
 #### Credit:
 - Broco8Dev as Main Dev and Designer
-- mildpeppercat as a Tweak Dev
-- Bob Minister as a Tweak Dev
-- Lung Inspector as a Tweak Dev
+- LoyaDev as a Contributor
+- lrdsnow as a Contributor
+- All of the great Tweak Devs and Icon Creators
