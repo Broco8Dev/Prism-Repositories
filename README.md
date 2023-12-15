@@ -1,5 +1,5 @@
 <p align="left">
-  <img align="left" height="120" src="https://github.com/Broco8Dev/Flux/blob/main/icon.png?raw=true" style="float: left; border-radius: 10px;"/>
+  <img align="left" height="120" src="https://github.com/Broco8Dev/Flux/blob/main/flux-icon.png?raw=true" style="float: left; border-radius: 10px;"/>
 </p>
 <h3 align="right">Flux, A Shortcut-Powered Customization Toolbox For Every iOS 14+.
 </h3> 
