@@ -228,5 +228,15 @@
         "preview": "None",
         "longDesc": "Setup wallpaper, alignment, etc of Pigeon.",
         "icon": "https://cdn.discordapp.com/attachments/1181404941521272983/1187604961870229565/IMG_4175.png?ex=65977e4f&is=6585094f&hm=29e0fbf3fb9159ff606ca2a47b7a8a72ac246d0853fb2e06d533aac9b1eb2e24&"
+    },
+    {
+        "name": "Moanify v1.5",
+        "shortDesc": "Make Your Phone Moan When Plugged In.",
+        "link": "https://www.icloud.com/shortcuts/d8fd719b19224e17b592c9245ab35945",
+        "author": "theantidisestablishmentarianist",
+        "categories": "Other, Moanify v1.5",
+        "preview": "None",
+        "longDesc": "Make Your Phone Moan When Plugged In. Randomized sounds!",
+        "icon": "https://cdn.discordapp.com/attachments/1181404883463704596/1187614420453556254/IMG_0746.png?ex=6597871e&is=6585121e&hm=ffdbc58377d64fe31f38e1ecf243018a96cf390f9ec65b0fd5d316ec7d745405&"
     }
 ]
