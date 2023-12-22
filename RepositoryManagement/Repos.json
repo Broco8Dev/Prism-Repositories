@@ -228,15 +228,5 @@
         "preview": "None",
         "longDesc": "Setup wallpaper, alignment, etc of Pigeon.",
         "icon": "https://cdn.discordapp.com/attachments/1181404941521272983/1187604961870229565/IMG_4175.png?ex=65977e4f&is=6585094f&hm=29e0fbf3fb9159ff606ca2a47b7a8a72ac246d0853fb2e06d533aac9b1eb2e24&"
-    },
-    {
-        "name": "Moanify",
-        "shortDesc": "Make Your Phone Moan When Plugged.",
-        "link": "https://www.icloud.com/shortcuts/f71bb15be6064b3da3b68362cef856fe",
-        "author": "theantidisestablishmentarianist",
-        "categories": "Other, Moanify",
-        "preview": "None",
-        "longDesc": "Your iPhone will moan when it is plugged in or unplugged.",
-        "icon": "https://cdn.discordapp.com/attachments/1181404906020683877/1187603593835053056/IMG_4173.png?ex=65977d09&is=65850809&hm=774a23a020e806402bf06056b4b29fb74ff332bf74161d9c0630819aaa9520ce&"
     }
 ]
