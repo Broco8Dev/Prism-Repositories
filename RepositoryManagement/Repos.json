@@ -258,5 +258,15 @@
         "preview": "None",
         "longDesc": "e",
         "icon": "https://cdn.discordapp.com/attachments/1144050176529551452/1186563551167520798/flux-icon.png?ex=6593b46b&is=65813f6b&hm=c4be2ed934c314fefa7f19b2eb887778d691a06d88e04737509ab19863e1e5ba&"
+    },
+    {
+        "name": "FootnoteFinder",
+        "shortDesc": "An advanced footnote maker for your device, with many customizable features.",
+        "link": "https://www.icloud.com/shortcuts/9f01d8b83d8b4a138ca685eedd4c1052",
+        "author": "lungboard",
+        "categories": "Other, FootnoteFinder",
+        "preview": "None",
+        "longDesc": "FootnoteFinder allows you to add a footnote to your device, with customizable aspects, such as color, potion, and custom texts. Might not work on iOS 16.1.2 and under.",
+        "icon": "https://cdn.discordapp.com/attachments/1181404906020683877/1187594965862334615/IMG_0740.png?ex=65977500&is=65850000&hm=bc320737bcfc184e7e420a31ddc3ed7386def3d8c3979dc155715d3db297c696&"
     }
 ]
