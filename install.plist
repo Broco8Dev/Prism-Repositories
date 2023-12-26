@@ -36,7 +36,7 @@
                         <key>bundle-identifier</key>
                         <string>com.brocodev.fluxios</string>
                         <key>bundle-version</key>
-                        <string>2.0</string>
+                        <string>1</string>
                         <key>kind</key>
                         <string>software</string>
                         <key>title</key>
