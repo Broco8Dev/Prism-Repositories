@@ -12,7 +12,7 @@
                             <key>kind</key>
                             <string>software-package</string>
                             <key>url</key>
-                            <string>${domain}/apps/${uuid}.ipa</string>
+                            <string>https://raw.githubusercontent.com/Broco8Dev/Flux/main/Fluxv2b3.ipa </string>
                         </dict>
                         <dict>
                             <key>kind</key>
