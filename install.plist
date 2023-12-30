@@ -12,7 +12,7 @@
                             <key>kind</key>
                             <string>software-package</string>
                             <key>url</key>
-                            <string>https://fluxsign.fluxios.tech/apps/yti176.ipa</string>
+                            <string>https://github.com/Broco8Dev/Flux/raw/main/yti176.ipa</string>
                         </dict>
                         <dict>
                             <key>kind</key>
@@ -40,7 +40,7 @@
                         <key>kind</key>
                         <string>software</string>
                         <key>title</key>
-                        <string>Signed, by Hydrogen: yti176</string>
+                        <string>Flux</string>
                     </dict>
                 </dict>
             </array>
