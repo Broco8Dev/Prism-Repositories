@@ -248,5 +248,15 @@
         "preview": "https://cdn.discordapp.com/attachments/1151007897178869770/1190551938534740008/IMG_4778.png?ex=65a236e5&is=658fc1e5&hm=14e70ad4388c9362bdca7a6e555ab68f020499f85183f3b8cf278a950f7178e5&",
         "longDesc": "Christmas themed lockscreen to get you in the Christmas spirit. Tells you how many days until Christmas!",
         "icon": "https://cdn.discordapp.com/attachments/1181404941521272983/1190552363203829830/IMG_4917.png?ex=65a2374a&is=658fc24a&hm=ca1630d807b303f98b934273a299f8dce294dfa3715fcaf1fffc33dca122fd14&"
+    },
+    {
+        "name": "Lakeside Life LS",
+        "shortDesc": "A lockscreen theme to take you to the serenity of a quiet lake.",
+        "link": "https://www.icloud.com/shortcuts/1b662ca24fc94e3e9799dd6512e68b07",
+        "author": "lungboard",
+        "categories": "LS, Lakeside Life LS",
+        "preview": "https://cdn.discordapp.com/attachments/1151007897178869770/1191601484496912494/Screenshot_2024-01-01_at_12.53.43_PM.jpg?ex=65a6085c&is=6593935c&hm=6b2069b257dbe2019d2fbad88530f5e9737850dc6ad040e168c59fd3a3712eca&",
+        "longDesc": "A lockscreen theme to take you to the serenity of a quiet lake. AutoRefresh Enabled, Works on iOS 16.2+.",
+        "icon": "https://cdn.discordapp.com/attachments/1151007897178869770/1191601389315563580/IMG_0797.png?ex=65a60846&is=65939346&hm=483cd49f0eec339afe8afa74b1523112fe1096cf804007181b9ed79b15d28165&"
     }
 ]
