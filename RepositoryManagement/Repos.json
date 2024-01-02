@@ -258,5 +258,15 @@
         "preview": "https://cdn.discordapp.com/attachments/1151007897178869770/1191601484496912494/Screenshot_2024-01-01_at_12.53.43_PM.jpg?ex=65a6085c&is=6593935c&hm=6b2069b257dbe2019d2fbad88530f5e9737850dc6ad040e168c59fd3a3712eca&",
         "longDesc": "A lockscreen theme to take you to the serenity of a quiet lake. AutoRefresh Enabled, Works on iOS 16.2+.",
         "icon": "https://cdn.discordapp.com/attachments/1151007897178869770/1191601389315563580/IMG_0797.png?ex=65a60846&is=65939346&hm=483cd49f0eec339afe8afa74b1523112fe1096cf804007181b9ed79b15d28165&"
+    },
+    {
+        "name": "Catppuccin LS",
+        "shortDesc": "based off of electric boogaloo",
+        "link": "https://www.icloud.com/shortcuts/26e2ee4e279c4016a62fa3aced94df21",
+        "author": "_.kewlaid",
+        "categories": "LS, Catppuccin LS",
+        "preview": "https://cdn.discordapp.com/attachments/1151007897178869770/1191602449211994112/image0.png?ex=65a60942&is=65939442&hm=85f2fea13544dad525056fa6bb83ba033fd7630dee65113dde0b4d86f02b1ec7&",
+        "longDesc": "based off of the electric boogaloo theme by sacrosanctuary",
+        "icon": "https://cdn.discordapp.com/attachments/1151007897178869770/1191602349735678066/image.png?ex=65a6092b&is=6593942b&hm=c0a90aa611c754707b13f98d7e645ec0ee908bcdda6c7d4bafb3c8b3810db6ac&"
     }
 ]
