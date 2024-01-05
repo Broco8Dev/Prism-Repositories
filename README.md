@@ -22,7 +22,7 @@
 - Fully supports Lockscreen Themes, Icon Themes, Jailbreak Tweak Ports and More!
 
 ### Todo:
-- Flux v2
+- Flux v2.5
 
 #### Credit:
 - Broco8Dev as Main Dev and Designer
