@@ -186,13 +186,78 @@
       },
       {
          "name":"NightCub LS",
-         "bundleIdentifier":"com.kewlaid.longexposure",
+         "bundleIdentifier":"com.kewlaid.nightcub",
          "developerName":"KewlAid",
          "subtitle":"The first LS theme to use the custom font renderer!",
-         "downloadURL":"https://www.icloud.com/shortcuts/71adec8d44ac4ee59eb70313fb8f2330",
+         "downloadURL":"https://www.icloud.com/shortcuts/685f9efc6d27497e982dec03e85a255a",
          "localizedDescription":"Cozy Lockscreen Theme For Your iPhone. First Theme to Utilize HTML Theming!",
          "iconURL":"",
-         "tintColor":"263238",
+         "tintColor":"90CAF9",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
+      {
+         "name":"FootnodeFinder",
+         "bundleIdentifier":"com.lunginspector.footnotefinder",
+         "developerName":"LungInspector",
+         "subtitle":"An advanced footnote maker for your device, with many customizable features.",
+         "downloadURL":"https://www.icloud.com/shortcuts/9f01d8b83d8b4a138ca685eedd4c1052",
+         "localizedDescription":"FootnoteFinder allows you to add a footnote to your device, with customizable aspects, such as color, potion, and custom texts. Might not work on iOS 16.1.2 and under.",
+         "iconURL":"",
+         "tintColor":"4DB6AC",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
+      {
+         "name":"Pigeon",
+         "bundleIdentifier":"com.brocodev.pigeon",
+         "developerName":"BrocoDev",
+         "subtitle":"Jailed Port of The Dodo Jailbreak Tweak",
+         "downloadURL":"https://www.icloud.com/shortcuts/8e229b42cf7949ecb9d5ea3ad3646723",
+         "localizedDescription":"Jailed Port of The Dodo Jailbreak Tweak. Move clock and items , change wallpaper, and more!",
+         "iconURL":"",
+         "tintColor":"AFFFAC",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
+      {
+         "name":"Pigeon Manager",
+         "bundleIdentifier":"com.brocodev.pigeonmanager",
+         "developerName":"BrocoDev",
+         "subtitle":"Required for Pigeon v1.",
+         "downloadURL":"https://www.icloud.com/shortcuts/b964271ea8ff4f0b911b40590daa6a72",
+         "localizedDescription":"Setup wallpaper, alignment, etc for Pigeon.",
+         "iconURL":"",
+         "tintColor":"AFFFAC",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
+      {
+         "name":"Catpuccin LS",
+         "bundleIdentifier":"com.kewlaid.catpuccin",
+         "developerName":"KewlAid",
+         "subtitle":"Based off of electric boogaloo.",
+         "downloadURL":"https://www.icloud.com/shortcuts/26e2ee4e279c4016a62fa3aced94df21",
+         "localizedDescription":"Based off of the electric boogaloo theme by Sacrosanctuary.",
+         "iconURL":"",
+         "tintColor":"4A148C",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
+      {
+         "name":"Catpuccin LS + Battery",
+         "bundleIdentifier":"com.kewlaid.catpuccinbattery",
+         "developerName":"KewlAid",
+         "subtitle":"Based off of electric boogaloo.",
+         "downloadURL":"https://www.icloud.com/shortcuts/f5f68c293b804214af86be160ba41980",
+         "localizedDescription":"Based off of the electric boogaloo theme by Sacrosanctuary.",
+         "iconURL":"",
+         "tintColor":"4A148C",
          "screenshotURLs":[
             "https://i.imgur.com/dsvMh0r.png"
          ]
