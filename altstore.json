@@ -69,26 +69,13 @@
       },
       {
          "name":"Rebind",
-         "bundleIdentifier":"com.stonks.folderboard",
+         "bundleIdentifier":"com.stonks.rebind",
          "developerName":"StonksTheGreat",
          "subtitle":"Rebind your iPhone Buttons.",
          "downloadURL":"https://www.icloud.com/shortcuts/8f604dfb295542dd8a382e8b94eed48c",
          "localizedDescription":"Rebind your iPhone Buttons.",
          "iconURL":"",
          "tintColor":"FFEE58",
-         "screenshotURLs":[
-            "https://i.imgur.com/dsvMh0r.png"
-         ]
-      },
-      {
-         "name":"Rebind",
-         "bundleIdentifier":"com.brocodev.folderboard",
-         "developerName":"BrocoDev",
-         "subtitle":"Rebind your iPhone Buttons.",
-         "downloadURL":"https://www.icloud.com/shortcuts/8f604dfb295542dd8a382e8b94eed48c",
-         "localizedDescription":"Rebind your iPhone Buttons.",
-         "iconURL":"",
-         "tintColor":"42A5F5",
          "screenshotURLs":[
             "https://i.imgur.com/dsvMh0r.png"
          ]
