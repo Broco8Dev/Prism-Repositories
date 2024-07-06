@@ -36,7 +36,163 @@
          "downloadURL":"https://www.icloud.com/shortcuts/2965788cd4d0401da5e97a57b0058aed",
          "localizedDescription":"A middle-aligned clock with a monochromatic, sleek colour scheme.",
          "iconURL":"",
-         "tintColor":"F06292",
+         "tintColor":"9E9E9E",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
+      {
+         "name":"PowerDown",
+         "bundleIdentifier":"com.brocodev.powerdown",
+         "developerName":"BrocoDev",
+         "subtitle":"Ultra-Low-Power-Mode or Shutdown Percentage.",
+         "downloadURL":"https://www.icloud.com/shortcuts/ed9940caecd14a13a815c340fcd3b171",
+         "localizedDescription":"Perform custom actions at any power percentage.",
+         "iconURL":"",
+         "tintColor":"30FF52",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
+      {
+         "name":"FolderBoard",
+         "bundleIdentifier":"com.brocodev.folderboard",
+         "developerName":"BrocoDev",
+         "subtitle":"Ultra-Low-Power-Mode or Shutdown Percentage.",
+         "downloadURL":"https://www.icloud.com/shortcuts/58d1b092ac7f4cfcb6c317a48ea4cebf",
+         "localizedDescription":"Theme your Icon Folders with Custom Icons.",
+         "iconURL":"",
+         "tintColor":"42A5F5",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
+      {
+         "name":"Rebind",
+         "bundleIdentifier":"com.stonks.folderboard",
+         "developerName":"StonksTheGreat",
+         "subtitle":"Rebind your iPhone Buttons.",
+         "downloadURL":"https://www.icloud.com/shortcuts/8f604dfb295542dd8a382e8b94eed48c",
+         "localizedDescription":"Rebind your iPhone Buttons.",
+         "iconURL":"",
+         "tintColor":"FFEE58",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
+      {
+         "name":"Rebind",
+         "bundleIdentifier":"com.brocodev.folderboard",
+         "developerName":"BrocoDev",
+         "subtitle":"Rebind your iPhone Buttons.",
+         "downloadURL":"https://www.icloud.com/shortcuts/8f604dfb295542dd8a382e8b94eed48c",
+         "localizedDescription":"Rebind your iPhone Buttons.",
+         "iconURL":"",
+         "tintColor":"42A5F5",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
+      {
+         "name": "Galaga LS",
+         "bundleIdentifier":"com.brocodev.galaga",
+         "developerName": "BrocoDev",
+         "subtitle": "Purple and Gray LS Theme.",
+         "downloadURL": "https://www.icloud.com/shortcuts/3f3d1521869b40a4946280c4d1256978",
+         "localizedDescription": "A radiant and monochromatic yet colourful LS theme with depth overlays.",
+         "iconURL":"",
+         "tintColor":"42A5F5",
+         "screenshotURLs": [
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+       },
+      {
+         "name":"Sunrise LS v1",
+         "bundleIdentifier":"com.mintyfresh.sunrise",
+         "developerName":"MintyFresh",
+         "subtitle":"A lock-screen theme for the early bird.",
+         "downloadURL":"https://www.icloud.com/shortcuts/76ca1a57061a4aa89b0085002665732f",
+         "localizedDescription":"A simple sunrise lock screen with a neat depth overlay. Clock color is D5E2FF.",
+         "iconURL":"",
+         "tintColor":"FFEE58",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
+      {
+         "name":"ChargeSound+",
+         "bundleIdentifier":"com.brocodev.chargesoundplus",
+         "developerName":"BrocoDev",
+         "subtitle":"Custom charging sound iOS 17+",
+         "downloadURL":"https://www.icloud.com/shortcuts/2e9b89bc8584492085a165b7bc0730e2",
+         "localizedDescription":"Custom charging sound. Requires iOS 17+.",
+         "iconURL":"",
+         "tintColor":"66BB6A",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
+      {
+         "name":"ChargeSound+ Config",
+         "bundleIdentifier":"com.brocodev.chargesoundplusconfig",
+         "developerName":"BrocoDev",
+         "subtitle":"Custom charging sound iOS 17+ ( The Config )",
+         "downloadURL":"https://www.icloud.com/shortcuts/377139dd73724d8b9574746e1c9bb1be",
+         "localizedDescription":"Custom charging sound. Requires iOS 17+. This tweak is for configuring the actual tweak.",
+         "iconURL":"",
+         "tintColor":"FFEE58",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
+      {
+         "name":"Windows 11 LS Dark",
+         "bundleIdentifier":"com.gideon.windows11dark",
+         "developerName":"AnomalyG",
+         "subtitle":"Windows 11 LS For Your iPhone",
+         "downloadURL":"https://www.icloud.com/shortcuts/4c7c80ca7dd542b1b86116225c66d237",
+         "localizedDescription":"Futuristic Windows 11 Styled LS For Your iPhone.",
+         "iconURL":"",
+         "tintColor":"B3E5FC",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
+      {
+         "name":"Windows 11 LS Light",
+         "bundleIdentifier":"com.gideon.windows11light",
+         "developerName":"AnomalyG",
+         "subtitle":"Windows 11 LS For Your iPhone",
+         "downloadURL":"https://www.icloud.com/shortcuts/b9e4d88e83a94d96ae5d8660da500a34",
+         "localizedDescription":"Futuristic Windows 11 Styled LS For Your iPhone.",
+         "iconURL":"",
+         "tintColor":"B3E5FC",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
+      {
+         "name":"LongExposure LS",
+         "bundleIdentifier":"com.kewlaid.longexposure",
+         "developerName":"KewlAid",
+         "subtitle":"Minimal and Aesthetic, Dark LS.",
+         "downloadURL":"https://www.icloud.com/shortcuts/71adec8d44ac4ee59eb70313fb8f2330",
+         "localizedDescription":"Futuristic, Minimal, Aesthetic, Dark Lockscreen Theme for Your iPhone.",
+         "iconURL":"",
+         "tintColor":"263238",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
+      {
+         "name":"NightCub LS",
+         "bundleIdentifier":"com.kewlaid.longexposure",
+         "developerName":"KewlAid",
+         "subtitle":"The first LS theme to use the custom font renderer!",
+         "downloadURL":"https://www.icloud.com/shortcuts/71adec8d44ac4ee59eb70313fb8f2330",
+         "localizedDescription":"Cozy Lockscreen Theme For Your iPhone. First Theme to Utilize HTML Theming!",
+         "iconURL":"",
+         "tintColor":"263238",
          "screenshotURLs":[
             "https://i.imgur.com/dsvMh0r.png"
          ]
