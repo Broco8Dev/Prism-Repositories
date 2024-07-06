@@ -262,5 +262,18 @@
             "https://i.imgur.com/dsvMh0r.png"
          ]
       },
+      {
+         "name":"Moanify v1.5",
+         "bundleIdentifier":"com.lunginspector.moanify",
+         "developerName":"LungInspector",
+         "subtitle":"Make Your Phone Moan When Plugged In.",
+         "downloadURL":"https://www.icloud.com/shortcuts/d8fd719b19224e17b592c9245ab35945",
+         "localizedDescription":"Make Your Phone Moan When Plugged In. Randomized sounds!",
+         "iconURL":"",
+         "tintColor":"FFFFFF",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
    ]
 }
