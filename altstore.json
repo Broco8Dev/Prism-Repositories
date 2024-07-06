@@ -12,7 +12,7 @@
          "iconURL":"",
          "tintColor":"874B4B",
          "screenshotURLs":[
-            "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png"
+            "https://i.imgur.com/dsvMh0r.png"
          ]
       },
       {
@@ -25,8 +25,21 @@
          "iconURL":"",
          "tintColor":"F06292",
          "screenshotURLs":[
-            "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png"
+            "https://i.imgur.com/dsvMh0r.png"
          ]
-      }
+      },
+      {
+         "name":"Desaturation",
+         "bundleIdentifier":"com.kewlaid.desaturation",
+         "developerName":"KewlAid",
+         "subtitle":"A Monochromatic Desert LS.",
+         "downloadURL":"https://www.icloud.com/shortcuts/2965788cd4d0401da5e97a57b0058aed",
+         "localizedDescription":"A middle-aligned clock with a monochromatic, sleek colour scheme.",
+         "iconURL":"",
+         "tintColor":"F06292",
+         "screenshotURLs":[
+            "https://i.imgur.com/dsvMh0r.png"
+         ]
+      },
    ]
 }
