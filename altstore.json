@@ -1,1 +1,32 @@
-
+{
+  "name": "Prism Source",
+  "identifier": "com.brocodev.prism",
+  "apps": [
+    {
+      "name": "Moonlight",
+      "bundleIdentifier": "com.mildpeppercat.bloodmoon",
+      "developerName": "mildpeppercat",
+      "subtitle": "Bask in the Moonlight of this LS.",
+      "downloadURL": "https://www.icloud.com/shortcuts/d48944fdff5c497696133ec9f17a1e8e",
+      "localizedDescription": "A bottom-aligned clock with a dark colour scheme.",
+      "iconURL": "",
+      "tintColor": "874B4B",
+      "screenshotURLs": [
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png"
+      ]
+    },
+    {
+      "name": "Into The Night LS",
+      "bundleIdentifier": "com.brocodev.iitn",
+      "developerName": "BrocoDev",
+      "subtitle": "Magnificent LS Inspired by Yoasobi",
+      "downloadURL": "https://www.icloud.com/shortcuts/dcbb88d685ac46ed9b6ba1f4db8437f3",
+      "localizedDescription": "A middle-aligned clock with a light, neon colour scheme.",
+      "iconURL": "",
+      "tintColor": "F06292",
+      "screenshotURLs": [
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png"
+      ]
+    },
+  ]
+}
