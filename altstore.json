@@ -94,18 +94,18 @@
          ]
       },
       {
-         "name": "Galaga LS",
+         "name":"Galaga LS",
          "bundleIdentifier":"com.brocodev.galaga",
-         "developerName": "BrocoDev",
-         "subtitle": "Purple and Gray LS Theme.",
-         "downloadURL": "https://www.icloud.com/shortcuts/3f3d1521869b40a4946280c4d1256978",
-         "localizedDescription": "A radiant and monochromatic yet colourful LS theme with depth overlays.",
+         "developerName":"BrocoDev",
+         "subtitle":"Purple and Gray LS Theme.",
+         "downloadURL":"https://www.icloud.com/shortcuts/3f3d1521869b40a4946280c4d1256978",
+         "localizedDescription":"A radiant and monochromatic yet colourful LS theme with depth overlays.",
          "iconURL":"",
          "tintColor":"42A5F5",
-         "screenshotURLs": [
+         "screenshotURLs":[
             "https://i.imgur.com/dsvMh0r.png"
          ]
-       },
+      },
       {
          "name":"Sunrise LS v1",
          "bundleIdentifier":"com.mintyfresh.sunrise",
@@ -274,6 +274,6 @@
          "screenshotURLs":[
             "https://i.imgur.com/dsvMh0r.png"
          ]
-      },
+      }
    ]
 }
