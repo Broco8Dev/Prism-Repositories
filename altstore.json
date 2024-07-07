@@ -122,6 +122,7 @@
          "downloadURL":"https://www.icloud.com/shortcuts/2e9b89bc8584492085a165b7bc0730e2",
          "localizedDescription":"Custom charging sound. Requires iOS 17+.",
          "iconURL":"",
+         "bannerURL":"https://github.com/Broco8Dev/Prism-Repositories/blob/main/Banners/ChargeSound%2B.png",
          "category":"Misc",
          "tintColor":"66BB6A",
          "screenshotURLs":[
