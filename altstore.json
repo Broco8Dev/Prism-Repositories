@@ -52,6 +52,7 @@
          "downloadURL":"https://www.icloud.com/shortcuts/ed9940caecd14a13a815c340fcd3b171",
          "localizedDescription":"Perform custom actions at any power percentage.",
          "iconURL":"",
+         "category":"QOL",
          "tintColor":"30FF52",
          "screenshotURLs":[
             "https://i.imgur.com/dsvMh0r.png"
@@ -65,6 +66,7 @@
          "downloadURL":"https://www.icloud.com/shortcuts/58d1b092ac7f4cfcb6c317a48ea4cebf",
          "localizedDescription":"Theme your Icon Folders with Custom Icons.",
          "iconURL":"",
+         "category":"HS",
          "tintColor":"42A5F5",
          "screenshotURLs":[
             "https://i.imgur.com/dsvMh0r.png"
@@ -78,6 +80,7 @@
          "downloadURL":"https://www.icloud.com/shortcuts/8f604dfb295542dd8a382e8b94eed48c",
          "localizedDescription":"Rebind your iPhone Buttons.",
          "iconURL":"",
+         "category":"QOL",
          "tintColor":"FFEE58",
          "screenshotURLs":[
             "https://i.imgur.com/dsvMh0r.png"
@@ -119,6 +122,7 @@
          "downloadURL":"https://www.icloud.com/shortcuts/2e9b89bc8584492085a165b7bc0730e2",
          "localizedDescription":"Custom charging sound. Requires iOS 17+.",
          "iconURL":"",
+         "category":"Misc",
          "tintColor":"66BB6A",
          "screenshotURLs":[
             "https://i.imgur.com/dsvMh0r.png"
@@ -132,6 +136,7 @@
          "downloadURL":"https://www.icloud.com/shortcuts/377139dd73724d8b9574746e1c9bb1be",
          "localizedDescription":"Custom charging sound. Requires iOS 17+. This tweak is for configuring the actual tweak.",
          "iconURL":"",
+         "category":"Misc",
          "tintColor":"FFEE58",
          "screenshotURLs":[
             "https://i.imgur.com/dsvMh0r.png"
@@ -271,6 +276,7 @@
          "downloadURL":"https://www.icloud.com/shortcuts/d8fd719b19224e17b592c9245ab35945",
          "localizedDescription":"Make Your Phone Moan When Plugged In. Randomized sounds!",
          "iconURL":"",
+         "category":"Misc",
          "tintColor":"9ea7b5",
          "screenshotURLs":[
             "https://i.imgur.com/dsvMh0r.png"
