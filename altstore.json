@@ -3,7 +3,7 @@
    "identifier":"com.brocodev.prism",
    "apps":[
       {
-         "name":"Moonlight",
+         "name":"Bloodmoon",
          "bundleIdentifier":"com.mildpeppercat.bloodmoon",
          "developerName":"mildpeppercat",
          "subtitle":"Bask in the Moonlight of this LS.",
